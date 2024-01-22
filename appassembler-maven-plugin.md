@@ -1,0 +1,1 @@
+appassembler-maven-plugin
